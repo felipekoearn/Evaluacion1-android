@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Evaluacion1_Android</string>
+    <string name="boton_entrar">Entrar</string>
+    <string name="boton_anterior">Salir</string>
+
+    <string name="boton_Galeria">Galeria</string>
+    <string name="boton_SalirGaleria">Volver</string>
+
+    <string name="boton_Rutas">Rutas</string>
+    <string name="boton_SalirRutas">Volver</string>
+
+
+</resources>
